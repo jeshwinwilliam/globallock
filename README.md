@@ -115,9 +115,3 @@ curl -s -X POST http://localhost:8081/v1/leases/acquire \
 - gRPC and client SDKs
 - OpenTelemetry integration
 
-## Repo positioning
-
-If you present this on GitHub or in interviews, describe it as:
-
-> A distributed coordination service starter with lease-based locking, fencing tokens, expiration handling, and observability primitives.
-
